@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Dto;
 
 import com.example.fproject.Entity.File;
@@ -34,4 +35,6 @@ public class FileDTO {
         return  build;
 
     }
+
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Dto;
 
 import com.example.fproject.Entity.UserList;
@@ -46,3 +47,4 @@ public class UserListDTO {
     }
 
 }
+*/

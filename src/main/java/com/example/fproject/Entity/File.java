@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Entity;
 
 import lombok.Builder;
@@ -27,3 +28,4 @@ public class File {
         this.filePath = filePath;
     }
 }
+*/

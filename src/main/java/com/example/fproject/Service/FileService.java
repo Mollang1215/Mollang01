@@ -1,4 +1,4 @@
-package com.example.fproject.Service;
+/*package com.example.fproject.Service;
 
 import com.example.fproject.Dto.FileDTO;
 import com.example.fproject.Entity.File;
@@ -27,4 +27,4 @@ public class FileService {
                 .build();
         return fileDTO;
     }
-}
+}*/

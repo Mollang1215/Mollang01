@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Service;
 
 import com.example.fproject.Dto.UserListDTO;
@@ -27,3 +28,4 @@ public class UserListService {
                 .user_pw(userListDTO.getUser_pw()).build()).getUser_code();
     }
 }
+*/

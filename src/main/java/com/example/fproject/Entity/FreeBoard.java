@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Entity;
 
 import lombok.Builder;
@@ -39,3 +40,4 @@ public class FreeBoard {
         this.add_file = add_file;
     }
 }
+*/

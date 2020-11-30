@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Service;
 
 import com.example.fproject.Dto.FreeBoardDTO;
@@ -63,3 +64,4 @@ public class FreeBoardService {
         return freeBoardDTOList;
     }
 }
+*/

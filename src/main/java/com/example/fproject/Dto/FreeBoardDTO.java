@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Dto;
 
 import com.example.fproject.Entity.FreeBoard;
@@ -42,3 +43,4 @@ public class FreeBoardDTO {
                 .build();
     }
 }
+*/

@@ -1,4 +1,4 @@
-package com.example.finalproject.Util;
+package com.example.fproject.Util;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

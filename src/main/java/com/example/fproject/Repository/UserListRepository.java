@@ -1,3 +1,4 @@
+/*
 package com.example.fproject.Repository;
 
 import com.example.fproject.Entity.UserList;
@@ -7,3 +8,4 @@ public interface UserListRepository extends JpaRepository<UserList, Long> {
 
 
 }
+*/
