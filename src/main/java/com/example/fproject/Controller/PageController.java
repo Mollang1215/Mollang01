@@ -2,7 +2,6 @@ package com.example.fproject.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
@@ -145,7 +144,7 @@ public class PageController {
 
 
     @RequestMapping("/Memo_Board")
-    public Memo_Board(Model model)
+    public String Memo_Board(Model model)
     {
         model.addAttribute("pp", "../board/board_first.jsp");
 
