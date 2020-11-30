@@ -1,0 +1,27 @@
+html, body {
+	width: 100%;
+	height : 100%;
+}
+
+.mollang_member
+{
+	display : flex;
+	flex-direction: column;
+	justify-content: center;
+
+	width: 100%;
+	height: 100%;
+}
+
+#mollang_row_center{
+	display :flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-bottom : 25px;
+}
+
+#mollang_colum_center {
+	display : flex;
+	flex-direction: column;
+	justify-content: center;
+}

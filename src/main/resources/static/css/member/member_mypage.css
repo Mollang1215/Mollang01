@@ -1,0 +1,94 @@
+html,
+body {
+	width: 100%;
+	height: 100%;
+}
+
+.mollang_mypage_all {
+	margin-top: 20px;
+	padding: 0 20px 0 20px;
+}
+
+/* 2번째 전체 영역 앞의 패딩을 주기 위해서 */
+.mollang_mypage_all2 {
+	padding-left: 10vw;
+	margin-right: 10vw;
+
+}
+
+.myclass {
+	width: 100%;
+	height: 100%;
+}
+
+/* 내 정보 */
+.myclass_top {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+	margin-top: 50px;
+}
+
+.myclass_center {
+	border: 3px solid red;
+	margin-left: -18px;
+	text-align: center;
+}
+
+/* 버튼 크기 */
+.mollang_btn {
+	width: 80px;
+}
+
+/* 마이 페이지 내 정보 확인하기 */
+#table_border {
+	border: 1px solid gray;
+}
+
+#mypage_table_check {
+	border: none;
+	border-collapse: separate;
+	border-spacing: 18px 0px;
+}
+
+#table_border_none {
+	border: none;
+}
+
+#mypage_menu
+{
+	border: 1px solid gray;
+	width : 20vw;
+}
+
+/* 삭제 할 것 */
+.myself_report {
+	border : 3px solid blue;
+}
+
+/* 차트 영역 고정하기  */
+.mollang_chart
+{
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+/* 자기 소개서 */
+.mypage_selfpage_onoff,
+.mypage_selfpage_onoff02,
+.mypage_selfpage_onoff03 {
+	display: flex;
+}
+
+.mypage_selfpage_onoff.active,
+.mypage_selfpage_onoff02.active,
+.mypage_selfpage_onoff03.active {
+	display: none;
+}
+
+
+/* 진하게 */
+#text_bold {
+	border: 2px solid black;
+}

@@ -1,0 +1,62 @@
+.mollang_mypage_all {
+	border: 1px solid red;
+	margin-top: 20px;
+	padding: 0 20px 0 20px;
+}
+
+.ponit_second {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin-top:18px;
+}
+
+.label_mollang_go01 {
+	margin-right: 15px;
+	
+	border: 1px solid blue;
+	height : 60px;
+	align-items: center;
+
+	padding-top : 16px;
+
+	font-size: 18px;
+
+}
+
+.label_mollang_01 {
+	width: 200px;
+	text-align: center;
+	background-color: lightgray;
+}
+
+.label_mollang_02 {
+	width: 200px;
+	text-align: right;
+}
+
+.label_mollang_03 {
+	width: 45px;
+	bottom : 0;
+}
+
+.mollang_point_text
+{
+	width: 23vw;
+	text-align: center;
+	margin: 2vw 0 2vw 8vw;
+}
+
+#mollang_flex_row{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+#mollang_margin_005 {
+	margin-left : 18px;
+}
+
+.label_mollang_last{
+	height :88px;
+}

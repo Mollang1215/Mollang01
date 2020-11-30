@@ -1,0 +1,45 @@
+.mollang_mypage_all {
+	border: 1px solid red;
+	margin-top: 20px;
+	padding: 0 20px 0 20px;
+}
+
+.ponit_second {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.label_mollang_go01 {
+	margin-right: 15px;
+	
+	border: 1px solid blue;
+	height : 60px;
+	align-items: center;
+}
+
+.label_mollang_01 {
+	width: 200px;
+	text-align: center;
+	background-color: lightgray;
+}
+
+.label_mollang_02 {
+	width: 200px;
+	text-align: right;
+}
+
+.label_mollang_03 {
+	width: 45px;
+	bottom : 0;
+}
+
+.point_three{
+	border : 1px solid gray;
+}
+
+.point_three_second{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}

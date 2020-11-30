@@ -1,0 +1,25 @@
+#mypage_table_check {
+	border: none;
+	border-collapse: separate;
+	border-spacing: 18px 18px;
+}
+
+.td_mollang_nickname {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.mollang_btn{
+	width : 90px;
+	margin-left: 18px;
+}
+
+.mollang_table_border{
+	background-color: lightgray;
+}
+
+.flex_center{
+	display: flex;
+	justify-content: center;
+}

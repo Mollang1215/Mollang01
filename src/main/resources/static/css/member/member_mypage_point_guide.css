@@ -1,0 +1,50 @@
+#mypage_table_check {
+	border: none;
+	border-collapse: separate;
+	border-spacing: 18px 18px;
+}
+
+.td_mollang_nickname {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.mollang_btn {
+	width: 90px;
+	margin-left: 18px;
+}
+
+.mollang_table_border {
+	background-color: lightgray;
+	width: 50px;
+}
+
+.flex_center {
+	display: flex;
+	justify-content: center;
+}
+
+#mypage_grade_menu {
+	width: 10vw;
+	font-size: 1vw;
+}
+
+.mollang_font_left_mypage {
+	text-align: left;
+}
+
+/* 두개의 테이블 좌, 우 정렬 */
+.myclass_row_between {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+@media screen and (max-width:991px) {
+	.myclass_row_between {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+}

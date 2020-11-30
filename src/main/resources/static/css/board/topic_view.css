@@ -4,7 +4,6 @@
 	border: 5px solid gray;
 	width: 100%;
 	display: flex;
-	justify-content: space-between;
 }
 
 .mollang_title {
@@ -28,7 +27,7 @@ justify-content: flex-end;
 
 
 
-/* í† í”½ ë©”ë‰´ ì •ë ¬í•˜ê¸° ì „ì²´ div */
+/* ?† ?”½ ë©”ë‰´ ? •? ¬?•˜ê¸? ? „ì²? div */
 .topic_mollang{
 	display: flex;
 	flex-direction: row;
@@ -37,7 +36,7 @@ justify-content: flex-end;
 }
 
 
-/* vs ê¸°ì¤€ìœ¼ë¡œ ê°€ìš´ë° ì˜ì—­ ë‘ê¸° */
+/* vs ê¸°ì???œ¼ë¡? ê°??š´?° ?˜?—­ ?‘ê¸? */
 .topic_center_mollang{
 	display: flex;
 	justify-content: center;
@@ -45,7 +44,7 @@ justify-content: flex-end;
 	width : 20vw;
 }
 
-/* í† í”½ í…Œë‘ë¦¬ (ì´ì˜ê²Œ í‘œí˜„í•˜ê¸° ìœ„í•´ì„œ ì„¸íŒ… ë‹¤ì‹œ í•  ê²ƒ ) */
+/* ?† ?”½ ?…Œ?‘ë¦? (?´?˜ê²? ?‘œ?˜„?•˜ê¸? ?œ„?•´?„œ ?„¸?Œ… ?‹¤?‹œ ?•  ê²? ) */
 #border_dark_mollang{
 	border:2px double pink;
 	margin-bottom: 40px;
@@ -53,17 +52,17 @@ justify-content: flex-end;
 }
 
 .mollang_good {
-	align : center;
+	display: flex;
 	justify-content: center;
 }
 
-/* í† í”½ ì„ íƒì§€ í…Œë‘ë¦¬*/
+/* ?† ?”½ ?„ ?ƒì§? ?…Œ?‘ë¦?*/
 .check01_mollang {
-	/* ì •ë ¬ ë˜ë©´ ì‚­ì œ í•   */
+	/* ? •? ¬ ?˜ë©? ?‚­? œ ?•   */
 	border: 4px solid blue;
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
+	justify-content: flex-start;
 
 }
 

@@ -6,3 +6,11 @@
 	position: none;
 	width:500px;
 }
+
+#mollang_input_size{
+	width : 50%;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}

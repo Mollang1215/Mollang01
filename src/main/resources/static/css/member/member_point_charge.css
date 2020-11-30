@@ -1,0 +1,78 @@
+.mollang_mypage_all {
+	margin-top: 20px;
+	padding: 0 20px 0 20px;
+}
+
+/* 2번째 전체 영역 앞의 패딩을 주기 위해서 */
+.mollang_mypage_all2 {
+	padding-left: 10vw;
+	margin-right: 10vw;
+
+}
+
+#mypage_table_check {
+	border: none;
+	border-collapse: separate;
+	border-spacing: 18px 18px;
+}
+
+.td_mollang_nickname {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.mollang_btn {
+	width: 90px;
+	margin-left: 18px;
+}
+
+.mollang_table_border {
+	background-color: lightgray;
+	width: 50px;
+}
+
+#table_border_none {
+	border: none;
+}
+
+.flex_center {
+	display: flex;
+	justify-content: center;
+}
+
+.myclass_center {
+	border: 3px solid red;
+	margin-left: -18px;
+	text-align: center;
+}
+
+#mypage_grade_menu {
+	width: 10vw;
+	font-size: 1vw;
+	border: none;
+}
+
+.mollang_font_left_mypage {
+	text-align: left;
+}
+
+/* 두개의 테이블 좌, 우 정렬 */
+.myclass_row_between {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+/* lavel 100% */
+#mollang_label_100 {
+	width: 100%;
+}
+
+@media screen and (max-width:991px) {
+	.myclass_row_between {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+}
