@@ -21,10 +21,10 @@
 <script src="https://kit.fontawesome.com/45fba14eff.js"
 	crossorigin="anonymous"></script>
 
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/member/member_mypage.css">
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/member/member_point_charge.css">
+<link rel="stylesheet" href="../css/member/member_mypage.css">
+<link rel="stylesheet" href="../css/member/member_point_charge.css">
 
-<script src="../../../../../../../../Desktop/JSPTest8/WebContent/js/member/member_mypage.js" defer></script>
+<script src="../js/member/member_mypage.js" defer></script>
 
 </head>
 <body>

@@ -9,10 +9,10 @@
 <%
 	String pp = null;
 if (pp == null) {
-	pp = "../board/topic_view";
+	pp = "../jobinformation/job_info";
 }
 %>
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/section.css">
+<link rel="stylesheet" href="../css/section.css">
 
 
 

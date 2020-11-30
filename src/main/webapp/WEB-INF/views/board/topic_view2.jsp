@@ -19,7 +19,7 @@
 
 
 <!-- 기본 css 연결하기 -->
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/board/topic_view.css">
+<link rel="stylesheet" href="../css/board/topic_view.css">
 
 <title>{게시판 이름}</title>
 

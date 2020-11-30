@@ -12,7 +12,7 @@
 	rel="stylesheet">
 
 
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/template.css">
+<link rel="stylesheet" href="../css/template.css">
 </head>
 <body style="margin-left: 5%; padding-right: 8%">
 	<div style="border-bottom: 3px solid lightgray;">

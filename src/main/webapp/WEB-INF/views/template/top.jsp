@@ -16,7 +16,7 @@
 	crossorigin="anonymous"></script>
 
 <!-- 가져오기 -->
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/top.css">
+<link rel="stylesheet" href="../css/top.css">
 <title>Insert title here</title>
 <!-- 이미지 파일 -->
 <script src="https://kit.fontawesome.com/45fba14eff.js"
@@ -26,7 +26,7 @@
 <link
 	href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap"
 	rel="stylesheet">
-<script src="../../../../../../../../Desktop/JSPTest8/WebContent/js/top.js" defer></script>
+<script src="../js/top.js" defer></script>
 
 
 </head>

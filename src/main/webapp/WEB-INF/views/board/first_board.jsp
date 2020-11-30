@@ -21,12 +21,12 @@
 <script src="https://kit.fontawesome.com/45fba14eff.js"
 	crossorigin="anonymous"></script>
 
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/main.css">
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/board/page.css">
+<link rel="stylesheet" href="../css/main.css">
+<link rel="stylesheet" href="../css/board/page.css">
 
 <!-- j Query -->
-<script type="text/JavaScript" src="../../../../../../../../Desktop/JSPTest8/WebContent/lib/jquery-3.5.1.js"></script>
-<script type="text/JavaScript" src="../../../../../../../../Desktop/JSPTest8/WebContent/lib/jquery-3.5.1.min.js"></script>
+<script type="text/JavaScript" src="../lib/jquery-3.5.1.js"></script>
+<script type="text/JavaScript" src="../lib/jquery-3.5.1.min.js"></script>
 <script>
 	$(document).ready(function() {
 		//공지사항의 높이값

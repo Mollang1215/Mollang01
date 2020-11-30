@@ -28,9 +28,9 @@
 	integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
 	crossorigin="anonymous"></script>
 
-<script src="../../../../../../../../Desktop/JSPTest8/WebContent/js/member/member_mypage.js" defer></script>
+<script src="../js/member/member_mypage.js" defer></script>
 
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/member/member_point_charge.css">
+<link rel="stylesheet" href="../css/member/member_point_charge.css">
 </head>
 <body>
 

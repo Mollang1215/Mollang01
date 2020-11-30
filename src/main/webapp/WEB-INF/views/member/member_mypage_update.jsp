@@ -18,7 +18,7 @@
 	crossorigin="anonymous"></script>
 
 
-<link rel="stylesheet" href="../../../../../../../../Desktop/JSPTest8/WebContent/css/member/member_mypage.css">
+<link rel="stylesheet" href="../css/member/member_mypage.css">
 
 
 <style>

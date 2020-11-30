@@ -26,8 +26,8 @@
 
 
 <!-- j Query -->
-<script type="text/JavaScript" src="../../../../../../../../Desktop/JSPTest8/WebContent/lib/jquery-3.5.1.js"></script>
-<script type="text/JavaScript" src="../../../../../../../../Desktop/JSPTest8/WebContent/lib/jquery-3.5.1.min.js"></script>
+<script type="text/JavaScript" src="../lib/jquery-3.5.1.js"></script>
+<script type="text/JavaScript" src="../lib/jquery-3.5.1.min.js"></script>
 
 <style>
 #form-input {
