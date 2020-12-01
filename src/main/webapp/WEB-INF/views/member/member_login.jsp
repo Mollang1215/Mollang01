@@ -37,7 +37,7 @@
 			
 			
 				<!-- 폼 구분 -->
-				<form>
+				<form action="/login" method="post">
 					<h2 id="mollang_row_center">로그인</h2>
 
 
@@ -64,8 +64,8 @@
 
 					<div class="input-group mb-3" id="mollang_row_center">
 						<div>
-							<button type="button" class="btn btn-secondary" id="mollang_btn">회원가입</button>
-							<button type="button" class="btn btn-secondary" id="mollang_btn">비밀번호</button>
+							<button type="submit" formaction="/joinform" class="btn btn-secondary" id="mollang_btn" >회원가입</button>
+							<button type="submit" class="btn btn-secondary" id="mollang_btn">로그인</button>
 						</div>
 					</div>
 				</form>

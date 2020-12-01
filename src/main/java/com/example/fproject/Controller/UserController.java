@@ -21,14 +21,20 @@ public class UserController {
 
     @RequestMapping("/login")
     public String login(){
+        return "member/member_login";
+    }
 
-        return "member/login";
+    @RequestMapping("/loginaction")
+    public String loginaction(){
+
+        return "redirect:/";
     }
 
 
         @RequestMapping("/joinform")
         public String joinform(UserDTO userDTO){
-            return "join/joinform";
+
+        return "join/joinform";
         }
 
     @RequestMapping("/postjoin")          // 회원가입 액션
