@@ -1,0 +1,55 @@
+{
+  "dhsOpenEmpInfoList": [
+    {
+      "total": "총건수",
+      "startPage": "시작위치지정1~1000",
+      "display": "출력건수",
+      "dhsOpenEmpInfo": {
+        "empSeqno": "공개채용공고순번",
+        "empWantedTitle": "채용제목",
+        "empBusiNm": "채용업체명",
+        "coClcdNm": "기업구분명",
+        "empWantedStdt": "채용시작일자",
+        "empWantedEndt": "채용종료일자",
+        "empWantedTypeNm": "고용형태",
+        "regLogImgNm": "채용기업로고",
+        "empWantedHomepgDetail": "채용사이트url",
+        "empWantedMobileUrl": "모바일채용사이트url"
+      }
+    },
+    {
+      "total": "총건수",
+      "startPage": "시작위치지정1~1000",
+      "display": "출력건수",
+      "dhsOpenEmpInfo": {
+        "empSeqno": "공개채용공고순번",
+        "empWantedTitle": "채용제목",
+        "empBusiNm": "채용업체명",
+        "coClcdNm": "기업구분명",
+        "empWantedStdt": "채용시작일자",
+        "empWantedEndt": "채용종료일자",
+        "empWantedTypeNm": "고용형태",
+        "regLogImgNm": "채용기업로고",
+        "empWantedHomepgDetail": "채용사이트url",
+        "empWantedMobileUrl": "모바일채용사이트url"
+      }
+    },
+    {
+      "total": "총건수",
+      "startPage": "시작위치지정1~1000",
+      "display": "출력건수",
+      "dhsOpenEmpInfo": {
+        "empSeqno": "공개채용공고순번",
+        "empWantedTitle": "채용제목",
+        "empBusiNm": "채용업체명",
+        "coClcdNm": "기업구분명",
+        "empWantedStdt": "채용시작일자",
+        "empWantedEndt": "채용종료일자",
+        "empWantedTypeNm": "고용형태",
+        "regLogImgNm": "채용기업로고",
+        "empWantedHomepgDetail": "채용사이트url",
+        "empWantedMobileUrl": "모바일채용사이트url"
+      }
+    }
+  ]
+}

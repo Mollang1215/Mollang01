@@ -1,0 +1,60 @@
+{
+  "salProspect": [
+    {
+      "jobCd": "직업코드",
+      "jobLrclNm": "직업대분류",
+      "jobMdclNm": "직업중분류",
+      "jobSmclNm": "직업소분류",
+      "sal": "임금",
+      "jobSatis": "직업만족도",
+      "jobProspect": "일자리전망",
+      "jobSumProspect": {
+        "jobProspectNm": "일자리전망",
+        "jobProspectRatio": "일자리전망률",
+        "jobProspectInqYr": "조사년도"
+      },
+      "jobStatusList": {
+        "jobCd": "일자리현황(직업코드)",
+        "jobNm": "일자리현황(직업명)"
+      }
+    },
+    {
+      "jobCd": "직업코드",
+      "jobLrclNm": "직업대분류",
+      "jobMdclNm": "직업중분류",
+      "jobSmclNm": "직업소분류",
+      "sal": "임금",
+      "jobSatis": "직업만족도",
+      "jobProspect": "일자리전망",
+      "jobSumProspect": {
+        "jobProspectNm": "일자리전망",
+        "jobProspectRatio": "일자리전망률",
+        "jobProspectInqYr": "조사년도"
+      },
+      "jobStatusList": {
+        "jobCd": "일자리현황(직업코드)",
+        "jobNm": "일자리현황(직업명)"
+      }
+    },
+    {
+      "jobCd": "직업코드",
+      "jobLrclNm": "직업대분류",
+      "jobMdclNm": "직업중분류",
+      "jobSmclNm": "직업소분류",
+      "sal": "임금",
+      "jobSatis": "직업만족도",
+      "jobProspect": "일자리전망",
+      "jobSumProspect": {
+        "jobProspectNm": "일자리전망",
+        "jobProspectRatio": "일자리전망률",
+        "jobProspectInqYr": "조사년도"
+      },
+      "jobStatusList": {
+        "jobCd": "일자리현황(직업코드)",
+        "jobNm": "일자리현황(직업명)"
+      }
+    }
+  ]
+}
+
+

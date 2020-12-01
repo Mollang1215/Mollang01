@@ -1,0 +1,31 @@
+{
+  "jobsDo": [
+    {
+      "jobCd": "직업코드",
+      "jobLrclNm": "직업대분류",
+      "jobMdclNm": "직업중분류",
+      "jobSmclNm": "직업소분류",
+      "jobSum": "직무개요",
+      "execJob": "수행직무",
+      "jobVideo": "직업안내동영상"
+    },
+    {
+      "jobCd": "직업코드",
+      "jobLrclNm": "직업대분류",
+      "jobMdclNm": "직업중분류",
+      "jobSmclNm": "직업소분류",
+      "jobSum": "직무개요",
+      "execJob": "수행직무",
+      "jobVideo": "직업안내동영상"
+    },
+    {
+      "jobCd": "직업코드",
+      "jobLrclNm": "직업대분류",
+      "jobMdclNm": "직업중분류",
+      "jobSmclNm": "직업소분류",
+      "jobSum": "직무개요",
+      "execJob": "수행직무",
+      "jobVideo": "직업안내동영상"
+    }
+  ]
+}

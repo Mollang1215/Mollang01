@@ -1,0 +1,100 @@
+{
+  "dhsOpenEmpHireInfoDetailRoot": [
+    {
+      "empCoNo": "채용기업번호",
+      "coNm": "회사명",
+      "coClcdNm": "기업구분명",
+      "regLogImgNm": "로고",
+      "homepg": "홈페이지",
+      "busino": "사업자등록번호",
+      "mapCoorY": "위도",
+      "mapCoorX": "경도",
+      "mainBusiCont": "주요사업",
+      "coIntroSummaryCont": "기업소개 요약",
+      "coIntroCont": "기업소개 상세",
+      "welfareList": {
+        "welfareListInfo": {
+          "cdKorNm": "카테고리",
+          "welfareCont": "복리후생내용"
+        }
+      },
+      "historyList": {
+        "historyListInfo": {
+          "histYr": "연혁년도",
+          "histMm": "연혁월",
+          "histCont": "연혁내용"
+        }
+      },
+      "rightPeopleList": {
+        "rightPeopleListInfo": {
+          "psnrightKeywordNm": "인재상키워드",
+          "psnrightDesc": "인재상내용"
+        }
+      }
+    },
+    {
+      "empCoNo": "채용기업번호",
+      "coNm": "회사명",
+      "coClcdNm": "기업구분명",
+      "regLogImgNm": "로고",
+      "homepg": "홈페이지",
+      "busino": "사업자등록번호",
+      "mapCoorY": "위도",
+      "mapCoorX": "경도",
+      "mainBusiCont": "주요사업",
+      "coIntroSummaryCont": "기업소개 요약",
+      "coIntroCont": "기업소개 상세",
+      "welfareList": {
+        "welfareListInfo": {
+          "cdKorNm": "카테고리",
+          "welfareCont": "복리후생내용"
+        }
+      },
+      "historyList": {
+        "historyListInfo": {
+          "histYr": "연혁년도",
+          "histMm": "연혁월",
+          "histCont": "연혁내용"
+        }
+      },
+      "rightPeopleList": {
+        "rightPeopleListInfo": {
+          "psnrightKeywordNm": "인재상키워드",
+          "psnrightDesc": "인재상내용"
+        }
+      }
+    },
+    {
+      "empCoNo": "채용기업번호",
+      "coNm": "회사명",
+      "coClcdNm": "기업구분명",
+      "regLogImgNm": "로고",
+      "homepg": "홈페이지",
+      "busino": "사업자등록번호",
+      "mapCoorY": "위도",
+      "mapCoorX": "경도",
+      "mainBusiCont": "주요사업",
+      "coIntroSummaryCont": "기업소개 요약",
+      "coIntroCont": "기업소개 상세",
+      "welfareList": {
+        "welfareListInfo": {
+          "cdKorNm": "카테고리",
+          "welfareCont": "복리후생내용"
+        }
+      },
+      "historyList": {
+        "historyListInfo": {
+          "histYr": "연혁년도",
+          "histMm": "연혁월",
+          "histCont": "연혁내용"
+        }
+      },
+      "rightPeopleList": {
+        "rightPeopleListInfo": {
+          "psnrightKeywordNm": "인재상키워드",
+          "psnrightDesc": "인재상내용"
+        }
+      }
+    }
+  ]
+}

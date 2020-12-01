@@ -1,0 +1,76 @@
+{
+  "smallGiantsList": [
+    {
+      "total": "총건수",
+      "smallGiants": {
+        "selYear": "선정연도",
+        "sgBrandNm": "강소기업브랜드명",
+        "coNm": "기업명",
+        "busiNo": "사업자등록번호",
+        "reperNm": "대표자",
+        "superIndTpCd": "업종코드(상)",
+        "superIndTpNm": "업종명(상)",
+        "indTpCd": "업종코드(중)",
+        "indTpNm": "업종명(중)",
+        "coTelNo": "사업장연락처",
+        "regionCd": "지역코드",
+        "regionNm": "지역명",
+        "coAddr": "주소",
+        "coContent": "사업내용",
+        "coMainProd": "주요생산품목",
+        "coGdpnt": "기업장점내용",
+        "coHomePage": "회사홈페이지",
+        "alwaysWorkerCnt": "상시근로자 수",
+        "": {}
+      }
+    },
+    {
+      "total": "총건수",
+      "smallGiants": {
+        "selYear": "선정연도",
+        "sgBrandNm": "강소기업브랜드명",
+        "coNm": "기업명",
+        "busiNo": "사업자등록번호",
+        "reperNm": "대표자",
+        "superIndTpCd": "업종코드(상)",
+        "superIndTpNm": "업종명(상)",
+        "indTpCd": "업종코드(중)",
+        "indTpNm": "업종명(중)",
+        "coTelNo": "사업장연락처",
+        "regionCd": "지역코드",
+        "regionNm": "지역명",
+        "coAddr": "주소",
+        "coContent": "사업내용",
+        "coMainProd": "주요생산품목",
+        "coGdpnt": "기업장점내용",
+        "coHomePage": "회사홈페이지",
+        "alwaysWorkerCnt": "상시근로자 수",
+        "": {}
+      }
+    },
+    {
+      "total": "총건수",
+      "smallGiants": {
+        "selYear": "선정연도",
+        "sgBrandNm": "강소기업브랜드명",
+        "coNm": "기업명",
+        "busiNo": "사업자등록번호",
+        "reperNm": "대표자",
+        "superIndTpCd": "업종코드(상)",
+        "superIndTpNm": "업종명(상)",
+        "indTpCd": "업종코드(중)",
+        "indTpNm": "업종명(중)",
+        "coTelNo": "사업장연락처",
+        "regionCd": "지역코드",
+        "regionNm": "지역명",
+        "coAddr": "주소",
+        "coContent": "사업내용",
+        "coMainProd": "주요생산품목",
+        "coGdpnt": "기업장점내용",
+        "coHomePage": "회사홈페이지",
+        "alwaysWorkerCnt": "상시근로자 수",
+        "": {}
+      }
+    }
+  ]
+}
