@@ -27,7 +27,7 @@ public class FreeBoardService {
 //    @Autowired
 //    private MultipartFile multipartFile;
 
-    public Long save(FreeBoardDTO freeBoardDTO){
+    public Long save(FreeBoardDTO freeBAardDTO){
 
 //        try{
 //            String basedir = "C:\\Users\\Administrator\\IdeaProjects\\finalproject\\src\\main\\resources\\static\\upload";

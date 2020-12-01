@@ -26,8 +26,8 @@
 
 
 <!-- j Query -->
-<script type="text/JavaScript" src="../lib/jquery-3.5.1.js"></script>
-<script type="text/JavaScript" src="../lib/jquery-3.5.1.min.js"></script>
+<script type="text/JavaScript" src="resource/lib/jquery-3.5.1.js"></script>
+<script type="text/JavaScript" src="resource/lib/jquery-3.5.1.min.js"></script>
 
 <style>
 #form-input {
@@ -77,19 +77,19 @@
 				<!-- 즐찾과 같은높이로 설정 -->
 				<div class="row" style="width: 100%">
 					<div style="width: 64%; float: none; margin: 20px auto">
-						<form action="#" method="get" name="insertjoin">
+						<form action="postjoin" method="post" name="insertjoin" >
 							<div class="form-group row ">
 								<div class="alert alert-secondary text-center" role="alert"
 									id="alertsizeinput">아이디</div>
-								<input type="text" class="form-control" id="form-input" name="#"
-									style="margin-left: 10px" placeholder="4~15자리까지 입력해주세요">
+								<input type="text" class="form-control" id="form-input" name="user_id"
+									style="margin-left: 10px" placeholder="4~15자리까지 입력해주세요" >
 								<button type="button" class="btn btn-secondary" id="BUTTONMO">중복확인</button>
 							</div>
 							<div class="form-group row">
 								<div class="alert alert-secondary text-center" role="alert"
-									id="alertsizeinput">비밀번호</div>
+									id="alertsizeinput" >비밀번호</div>
 								<input type="password" class="form-control" id="form-input"
-									placeholder="4~15자리까지 입력해주세요">
+									placeholder="4~15자리까지 입력해주세요" name="user_pw">
 							</div>
 							<div class="form-group row">
 								<div class="alert alert-secondary text-center" role="alert"
@@ -100,8 +100,8 @@
 							</div>
 							<div class="form-group row">
 								<div class="alert alert-secondary text-center" role="alert"
-									id="alertsizeinput">닉네임</div>
-								<input type="text" class="form-control" id="form-input" name="#"
+									id="alertsizeinput" >닉네임</div>
+								<input type="text" class="form-control" id="form-input" name="user_name"
 									placeholder="4~15자리까지 입력해주세요">
 								<button type="button" class="btn btn-secondary" id="BUTTONMO">중복확인</button>
 							</div>
@@ -109,19 +109,19 @@
 								<div class="alert alert-secondary text-center" role="alert"
 									id="alertsize">내직업</div>
 								<select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="user_job">
 									<option selected>대분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="user_job">
 									<option selected>중분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="user_job">
 									<option selected>소분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
@@ -132,19 +132,19 @@
 								<div class="alert alert-secondary text-center" role="alert"
 									id="alertsize">관심직업</div>
 								<select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="inter_job1">
 									<option selected>대분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="inter_job1">
 									<option selected>중분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="inter_job1">
 									<option selected>소분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
@@ -155,19 +155,19 @@
 							<div class="form-group row">
 								<div class="alert alert-secondary" id="alertsize">관심직업</div>
 								<select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref"  name="inter_job2">
 									<option selected>대분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref"  name="inter_job2">
 									<option selected>중분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref"  name="inter_job2">
 									<option selected>소분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
@@ -179,19 +179,19 @@
 								<div class="alert alert-secondary text-center" role="alert"
 									id="alertsize">관심직업</div>
 								<select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="inter_job3">
 									<option selected>대분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="inter_job3">
 									<option selected>중분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
 									<option value="3">Three</option>
 								</select> <select class="custom-select my-1 mr-sm-2"
-									id="inlineFormCustomSelectPref">
+									id="inlineFormCustomSelectPref" name="inter_job3">
 									<option selected>소분류</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
@@ -204,7 +204,7 @@
 									id="alertsize">MBTI</div>
 
 								<select class="custom-select mr-sm-2"
-									id="inlineFormCustomSelectPrefMBTI">
+									id="inlineFormCustomSelectPrefMBTI" name="mbti_mbti">
 									<option selected>List</option>
 									<option value="1">One</option>
 									<option value="2">Two</option>
@@ -214,7 +214,7 @@
 									하러가기</button>
 							</div>
 							<div class="form-group row-center text-center">
-								<button type="submit" id="join-submit" class="btn btn-secondary">
+								<button type="submit" id="join-submit" class="btn btn-secondary" onclick="sucee()">
 									회원가입<i class="fa fa-check spaceLeft"></i>
 								</button>
 								<button type="reset" class="btn btn-secondary">
@@ -227,7 +227,14 @@
 			</div>
 		</div>
 	</div>
+	<script>
+		function sucee(){
+    alert("회원가입에 성공")
+    insertjoin.form.submit;
 
+}
+
+		</script>
 
 </body>
 </html>

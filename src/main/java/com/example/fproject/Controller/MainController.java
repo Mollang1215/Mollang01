@@ -10,6 +10,6 @@ public class MainController {
     @RequestMapping("Template")
     public String template(){
 
-        return"template/template";
+        return "template/template";
     }
 }
