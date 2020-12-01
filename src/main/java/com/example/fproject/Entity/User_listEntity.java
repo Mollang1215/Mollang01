@@ -48,7 +48,7 @@ public class User_listEntity{
         @Column(columnDefinition = "int default 0" ,nullable = false)
         private int get_point;
 
-        @Column(columnDefinition = "varchar(50) default 'Lv.1'",nullable = false)
+        @Column(columnDefinition = "varchar2(50) default 'Lv.1'")
         private String user_level;
 
         private String file1;
