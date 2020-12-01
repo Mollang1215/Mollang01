@@ -22,7 +22,7 @@ public class UserController {
     @RequestMapping("/login")
     public String login(){
 
-        return "";
+        return "member/login";
     }
 
 
@@ -34,7 +34,7 @@ public class UserController {
     @RequestMapping("/postjoin")          // 회원가입 액션
     public String insertjoin(UserDTO userDTO) {
          userService.savejoin(userDTO);
-            return "redirect:/";
+            return "redirect:/login";
         }
     }
 
